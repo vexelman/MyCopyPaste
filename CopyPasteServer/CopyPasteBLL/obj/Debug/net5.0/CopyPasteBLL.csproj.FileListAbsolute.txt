@@ -1,0 +1,15 @@
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\bin\Debug\net5.0\CopyPasteBLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\bin\Debug\net5.0\CopyPasteBLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\bin\Debug\net5.0\ref\CopyPasteBLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\bin\Debug\net5.0\CopyPasteBLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\bin\Debug\net5.0\CopyPasteDAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\bin\Debug\net5.0\CopyPasteDAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\ref\CopyPasteBLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteBLL\obj\Debug\net5.0\CopyPasteBLL.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\bin\Debug\net5.0\CopyPasteDAL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\bin\Debug\net5.0\CopyPasteDAL.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\bin\Debug\net5.0\CopyPasteDAL.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\bin\Debug\net5.0\CopyPasteDAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\bin\Debug\net5.0\ref\CopyPasteDAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\bin\Debug\net5.0\CopyPasteDAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\ref\CopyPasteDAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.genruntimeconfig.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\ברכי וקסלמן\CopyPasteServer\CopyPasteDAL\obj\Debug\net5.0\CopyPasteDAL.csprojAssemblyReference.cache
